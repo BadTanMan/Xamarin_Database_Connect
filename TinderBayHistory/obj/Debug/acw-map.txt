@@ -1,0 +1,8 @@
+TinderBayHistory.MainActivity, TinderBayHistory;md5f54bf6ad248613857a792a9615fb192a.MainActivity
+TinderBayHistory.MainActivity, TinderBayHistory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f54bf6ad248613857a792a9615fb192a.MainActivity
+TinderBayHistory.MainActivity;md5f54bf6ad248613857a792a9615fb192a.MainActivity
+tinderbayhistory.MainActivity;md5f54bf6ad248613857a792a9615fb192a.MainActivity
+TinderBayHistory.PurchasePage, TinderBayHistory;md5f54bf6ad248613857a792a9615fb192a.PurchasePage
+TinderBayHistory.PurchasePage, TinderBayHistory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f54bf6ad248613857a792a9615fb192a.PurchasePage
+TinderBayHistory.PurchasePage;md5f54bf6ad248613857a792a9615fb192a.PurchasePage
+tinderbayhistory.PurchasePage;md5f54bf6ad248613857a792a9615fb192a.PurchasePage
